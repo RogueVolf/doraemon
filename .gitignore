@@ -1,0 +1,4 @@
+.env
+__pycache__
+.nicegui
+dora_env
